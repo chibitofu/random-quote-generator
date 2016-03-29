@@ -1,0 +1,12 @@
+#pictureFrame {
+  display: -webkit-flex;
+  display: flex;
+  -webkit-justify-content: center;
+  justify-content: center;
+  background-color: rgb(0, 0, 0);
+}
+
+#picture {
+  background-repeat: no-repeat;
+  padding: 20px;
+}
